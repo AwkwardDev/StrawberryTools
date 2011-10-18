@@ -2,7 +2,7 @@ ControlName,ColumnName
 tbQuestEntry,Entry
 tbQuestMethod,Method
 cbQuestZoneOrSort,ZoneOrSort
-cbQuestSkillOrClass,SkillOrClassMask
+tbQuestSkillOrClass,SkillOrClassMask
 nudQuestMinLevel,MinLevel
 nudQuestMaxLevel,MaxLevel
 nudQuestLevel,QuestLevel
