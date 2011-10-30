@@ -66,3 +66,4 @@ Id,EventType
 64,Gossip Hello
 65,Follow Completed
 66,Dummy Effect
+67,Is Behind Target
